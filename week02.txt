@@ -1,0 +1,21 @@
+리눅스 명령어
+-ls
+-ls 옵션a 숨김 파일보기
+-touch
+-cd 폴더명
+-cd ..
+-cat 파일명
+
+
+깃 명령어
+-git init
+-git status
+-git add 파일명
+-git add.
+-git config--global user.email
+-git config--global user.name
+-git config --list
+-git commit -m"커밋에 남길 메시지"
+-git log 세부내용 살피기
+-git checkout 해시코드전체 또는 7자리
+git checkout 
