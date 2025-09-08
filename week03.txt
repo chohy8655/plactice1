@@ -1,5 +1,23 @@
 리눅스 명령어
 
 echo "출력물"  >> 파일명
+remove(rm) 파일명
+
+
+
+
+
 
 깃 명령어
+git branch -M main
+git remote add origin https://github.com/chohy8655(아이디)/asdasd222(원격리포지).git
+git push -u origin main
+git psut
+git remote -v(현 주소확인)
+git remote remove   기존주소 삭제
+git remote remove   origin
+
+git clone 원격리포지
+git clone 원격리포지 .  폴더 상위   (삭제복구)
+
+
