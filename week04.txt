@@ -1,4 +1,6 @@
 리눅스 명령어
+vi 파일명 
+
 
 git 명령어
 git commit --amend -m "수정할 커밋메시지"  이름바꾸기 
