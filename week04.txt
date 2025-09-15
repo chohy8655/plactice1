@@ -1,5 +1,6 @@
 리눅스 명령어
-vi filenname
+vi 파일명(filenname)
+
 
 
 git 명령어
