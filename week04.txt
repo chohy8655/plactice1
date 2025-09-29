@@ -18,4 +18,9 @@ asdasdasd
 >>>>>>> dev01
 =======
 ㅁㄴㅇㄴㅇㅁㅇㅁㄴ
+<<<<<<< HEAD
+>>>>>>> dev01
+=======
+
+asdasdadasdsas
 >>>>>>> dev01
