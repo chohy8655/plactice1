@@ -9,3 +9,4 @@ git reset --hard HEAD~최근커밋부터 시작해서 삭제갯수 1이면 최�
 git fetch
 git pull
 git push -f origin main 원격에있던말든 강제로 밀기
+ㅁㄴㅇㄴㅇㅁㅇㅁㄴ
