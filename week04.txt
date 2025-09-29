@@ -10,3 +10,5 @@ git fetch
 git pull
 git push -f origin main 원격에있던말든 강제로 밀기
 ㅁㄴㅇㄴㅇㅁㅇㅁㄴ
+
+asdasdadasdsas
